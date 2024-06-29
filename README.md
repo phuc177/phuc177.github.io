@@ -1,1 +1,6 @@
-# phuc177.github.io
+# Bonjour!
+
+### Education
+Mechatronics, HCMUT
+
+### Profesional experiences
