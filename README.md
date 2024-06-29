@@ -3,7 +3,7 @@
 #### Technical Skills: C, Python, MATLAB
 
 ## Education
-- B.eng. , Mechatronics | Viet Nam national university HCM city - HCM city university of technology (_currently_)								       		
+- B.eng, Mechatronics | VNUHCMC - HCM city university of technology (_2021 - currently_)								       		
 
 ## Profesional Experience
 **Member of Automation and control lab HCMUT (_August 2023 - Present_)**
@@ -29,6 +29,6 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Competitions
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
+### Top 8 | M.E.R.C (Mechanical Engineering Robot Contest) 2021 & 2022 
 
 
