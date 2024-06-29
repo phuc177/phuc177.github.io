@@ -1,4 +1,4 @@
-# Bonjour!
+# Hi there!
 
 ### Education
 Mechatronics, HCMUT
